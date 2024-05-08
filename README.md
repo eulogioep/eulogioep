@@ -17,8 +17,6 @@ Herramientas: ![Android Studio](https://img.shields.io/badge/android%20studio-34
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/eulogioep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eulogioep//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://developers.google.com/profile/u/eulogioep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleanalytics.svg' alt='googleanalytics' height='40'>](https://www.credly.com/badges/57c9e274-4ed9-4f4c-989f-ceec5559154c/public_url)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.credly.com/badges/0829f05c-2635-4e5b-9c35-e22b9abee1e0/public_url)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/eulogioep)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/eulogioep&show_icons=true)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulogioep&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
