@@ -19,6 +19,7 @@ Herramientas:
 
 - 📫 Cómo contactarme: eulogio-ep@hotmail.com 
 
+<a href="https://app.daily.dev/eulogioep"><img src="https://api.daily.dev/devcards/v2/b5dck4lcpdfhUiuLoE3T9.png?type=wide&r=69d" width="652" alt="Eulogio's Dev Card"/></a>
 
 ***
 
