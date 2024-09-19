@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hola, soy Eulogio, un desarrollador de software. Me gusta estar al día en las nuevas tecnologías y realizar proyectos propios para aprender.</p>
+<p align="left">👋 Hola, soy Eulogio, un desarrollador Full-Stack. Me gusta estar al día en las nuevas tecnologías y realizar proyectos propios para aprender.</p>
 
 ###
 
